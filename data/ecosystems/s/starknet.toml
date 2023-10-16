@@ -2,13 +2,13 @@
 title = "Starknet"
 
 sub_ecosystems = [
-  "10K Swap",
   "Bibliotheca DAO",
   "cartridge-gg",
   "EXOTHIUM",
   "Hashstack",
-  "IBetYou",
-  "Mint Square",
+  "Dojo",
+  "Gizatech",
+  "Keep Starknet Strange",
   "Only Dust",
   "StarkWare",
 ]
